@@ -1,0 +1,87 @@
+table,th,td{
+    border:3px solid violet;
+    border-collapse:collapse;
+}
+h1{
+    margin-bottom:
+    0px;
+}
+/*mengedit class mobil*/
+.mobil {color: orange}
+/*edit id*/
+#avanza {color: chartreuse}
+
+.pwdk{
+    border: 3px solid orange;
+    border-collapse:collapse;
+}
+
+body{
+    /* background-color: yellow; */
+    /* background: url('latarwarna.jpg'); */
+    background-size: 1280px 720px
+}
+
+h1{
+    color: rgb(150,45,30);
+    /* font-family:'Gill Sans','Gill Sans MT','Calibri'; */
+    background-color: aquamarine;
+
+}
+
+.coba-font{
+    color: black;
+    /* font-family: : Arial, Helvetica, sans-serif; */
+    font-family: 'Goldman', cursive;
+    /* font-family: 'Playfair Display', serif; */
+    font-style: bold;
+    /* text-transform:uppercase; */
+    text-shadow: -4px 4px 10px green;
+    line-height: 200%; /*jarak antar line */
+    letter-spacing:2px;
+    word-spacing: 3px;
+    text-align:center;
+}
+
+ul{
+    list-style-type:armenian;
+}
+
+.konten{
+    background-color:grey;
+    width:200px;
+    height: 200px;
+    padding: 25px;
+    border: 20px ridge yellow;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.konten2{
+    background-color:violet;
+    width:200px;
+    height: 200px;
+    padding: 30px;
+    border: 10px groove red;
+    margin-top:40px;
+}
+
+p{
+    color:yellow
+}
+
+p{
+    color:green;
+}
+
+main>p{
+    color:purple
+}
+
+main>div>p{
+    color: teal;
+}
+
+main>div>.abc{
+    color:red
+}

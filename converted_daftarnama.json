@@ -1,0 +1,20 @@
+[
+    {
+        "nama": "Andi",
+        "usia": "21",
+        "kota": "Jakarta",
+        "status": "jomblo"
+    },
+    {
+        "nama": "Budi",
+        "usia": "22",
+        "kota": "Bandung",
+        "status": "jomblo"
+    },
+    {
+        "nama": "Caca",
+        "usia": "23",
+        "kota": "Jakarta",
+        "status": "menikah"
+    }
+]
